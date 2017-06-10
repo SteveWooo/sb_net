@@ -1,0 +1,16 @@
+{
+  "serverPort" : 5555,
+  "clusterCount" : 2,
+
+  "mode" : "DEV",
+
+  "salt" : "SteveWoo",
+
+  "mysql" : {
+      "host" : "localhost",
+      "database" : "sb_net",
+      "user" : "sb_net",
+      "password" : "lyoko123RAIN",
+      "port" : 3306
+  }
+}

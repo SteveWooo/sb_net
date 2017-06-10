@@ -1,0 +1,25 @@
+{
+  "name": "sb_net",
+  "version": "1.0.0",
+  "description": "一个可爱的工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveWooo/sb_net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveWooo/sb_net/issues"
+  },
+  "homepage": "https://github.com/SteveWooo/sb_net#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0",
+    "request": "^2.81.0"
+  }
+}
