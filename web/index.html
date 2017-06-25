@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div onclick="start()">
+		start
+	</div>
+
+	<script type="text/javascript">
+		function start(){
+			var w = new Worker('./worker.js');
+			w.onmessage = function(data){
+				console.log(data.data);
+			}
+		}
+	</script>
+</body>
+</html>

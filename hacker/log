@@ -1,0 +1,22 @@
+success : 10.12.18.211
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+  <HEAD><TITLE>A Servlet</TITLE></HEAD>
+<SCRIPT LANGUAGE='JavaScript'>
+alert('下线成功(Logout successful)'); 
+window.close();
+</script> <br></HEAD> <BODY>
+  </BODY>
+</HTML>
+
+success : 10.12.22.86
+number : 162011379<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+  <HEAD><TITLE>A Servlet</TITLE></HEAD>
+<SCRIPT LANGUAGE='JavaScript'>
+alert('下线成功(Logout successful)'); 
+window.close();
+</script> <br></HEAD> <BODY>
+  </BODY>
+</HTML>
+
