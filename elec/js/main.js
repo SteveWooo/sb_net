@@ -1,15 +1,5 @@
 window.detail = [];
 
-// var canvasInit = function(){
-// 	window.canvas = document.getElementById('canvas');
-// 	window.ctx = canvas.getContext('2d');
-// }
-
-// var clear = function(){
-// 	ctx.fillStyle = "#fff";
-// 	ctx.fillRect(0, 0, canvas.width, canvas.height);
-// }
-
 var createCanvas = function(id){
 	var title = document.createElement('h2');
 	title.innerHTML = id + " : ";
@@ -30,7 +20,6 @@ var getCan = function(id){
 }
 
 var setPoint = function(obj, can){
-	// clear();
 	var ctx = can.getContext('2d');
 	var d = obj.data;
 	var x = 50,y;
